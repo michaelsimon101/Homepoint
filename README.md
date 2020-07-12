@@ -10,7 +10,7 @@
 ### :house: Control your MQTT/HomeKit Smart Home Devices from an ESP32-powered screen :house: 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sieren/Homepoint/master/media/img1.jpg" width="400"><img src="https://raw.githubusercontent.com/sieren/Homepoint/master/media/img2.gif" width="400"> 
+  <img src="https://raw.githubusercontent.com/sieren/Homepoint/master/media/img1.jpg" width="400">
 </p>
 
 Homepoint is a screen-based interface for MQTT & HomeKit-connected Smarthome devices that runs on the ESP32 Chipset.  
